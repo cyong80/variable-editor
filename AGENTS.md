@@ -1,0 +1,3 @@
+- 패키지 매니저는 bun을 사용한다.
+- vite
+- shadcn, tailwindcss
